@@ -1,0 +1,23 @@
+.fade-in-out {
+    animation: fadeInOut 3s ease-in-out infinite alternate;
+  }
+  
+  @keyframes fadeInOut {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+.spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.loading-message {
+    font-weight: 500;
+}

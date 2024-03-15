@@ -1,0 +1,4 @@
+module.exports = {
+    TELEGRAF_API_KEY: 'YOUR_TOKEN_HERE',
+    OPENAI_API_KEY: 'YOUR_TOKEN_HERE'
+};

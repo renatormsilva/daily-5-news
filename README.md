@@ -68,8 +68,6 @@ npm install
 
 - **Interface de Usuário Intuitiva:** Desenvolvemos uma interface de usuário intuitiva e amigável, garantindo que os usuários possam acessar facilmente as notícias e interagir com a aplicação de forma eficiente.
 
-- **Segurança de Dados:** Implementamos medidas de segurança robustas para proteger os dados dos usuários, garantindo a confidencialidade e integridade das informações pessoais.
-
 - **Documentação Detalhada:** Fornecemos uma documentação detalhada do projeto, incluindo instruções de instalação, uso e contribuição, para facilitar o entendimento e a colaboração dos desenvolvedores.
 
 
